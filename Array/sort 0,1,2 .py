@@ -30,7 +30,7 @@ class Solution(object):
 obj=Solution()
 print(obj.sortColors([2,0,2,1,1,0]))
 
-# optimized solution :
+# My optimized solution :
 
 class solution():
     def sortColors(self,arr):
